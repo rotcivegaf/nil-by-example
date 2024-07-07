@@ -1,4 +1,4 @@
-# Lesson 03: Smart Contracts
+# Lesson 02: Smart Contracts
 
 ## Goal
 
